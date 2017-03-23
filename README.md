@@ -1,1 +1,1 @@
-# Azuer
+# Azure
